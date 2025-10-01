@@ -27,7 +27,7 @@ Als alles is gelukt, krijg je de nodige info voor je bot:
 Kopieer de HTTP API token op een veilige plaats. **Deel dit niet met anderen; ze kunnen je bot dan gebruiken zonder jouw toestemming.** Open vervolgens de bovenste link. Je bot is nu klaar om te gebruiken.
 
 ## Stap 2: Setup Arduino
-Om deze applicatie te maken heb je 3 libraries nodig: UniversalTelegramBot, ArduinoJson, en Adafruit NeoPixel. 
+Om deze applicatie te maken heb je 3 libraries nodig: UniversalTelegramBot, ArduinoJson, en Adafruit NeoPixel.
 
 Open de Arduino IDE en klik op het derde icoontje in de linker zijbalk. Dit opent je Library Manager. 
 ![](../IoTLEDBot/Images/Libraries.png)
